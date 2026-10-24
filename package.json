@@ -1,0 +1,12 @@
+{
+  "name": "hcm-lite-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HCM Lite - AI-assisted Human Capital Management for Admin, HR and Employees",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "start:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  }
+}
